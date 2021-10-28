@@ -30,8 +30,9 @@
         "ms-python.python",
         "github.github-vscode-theme",
         "gruntfuggly.todo-tree",
-		"editorconfig.editorconfig",
+	"editorconfig.editorconfig",
         "yzhang.markdown-all-in-one",
+	"eamodio.gitlens",
         "tabnine.tabnine-vscode"
     ],
     "features": {}
