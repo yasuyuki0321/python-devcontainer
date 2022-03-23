@@ -1,11 +1,11 @@
-# python_devcontainer
+# python-devcontainer
 
 ## Usage
 
 ### clone
 
 ```sh
-git clone https://github.com/yasuyuki0321/python_devcontainer.git
+git clone https://github.com/yasuyuki0321/python-devcontainer.git
 ```
 
 ### change repository
